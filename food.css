@@ -1,0 +1,284 @@
+
+.h1{
+    margin-left: 40px;
+    display: flex;
+}
+.h1 img{
+    width: 70px;
+}
+.h1 h2{
+    color: green;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 17px;
+}
+.h1 h5{
+    color: grey;
+    font-size: 20px;
+}
+.h1 a{
+    background: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.img1{
+    margin-left: 40px;
+    display: flex;
+}
+.img1 p{
+    width: 400px;
+
+}
+.img1 h1{
+    margin-top: 75px;
+    color: gray;
+    font-size: 50px;
+}
+.img1 img{
+    width: 300px;
+  margin-left: 150px;
+}
+.btn{
+    margin-top: 40px;
+    
+   
+}
+.btn a{
+    border: 1px solid rgb(240, 217, 12);
+    padding: 5px 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: grey;
+}
+.btn a:hover{
+    background-color: rgb(240,217,12);
+    color: white;
+}
+.img2{
+    margin-top: 50px;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+.a1{
+    margin-top: 50px;
+    display: flex;
+}
+.a1 img{
+    width: 300px;
+    margin-left: 100px;
+}
+.m1{
+    text-align: center;
+}
+.a1t p{
+    width: 600px;
+}
+.a1t{
+    margin-left: 50px;
+}
+.a1t h1{
+    font-size: 50px;
+}
+.m1t{
+    text-align: center;
+}
+.m1t h1{
+    font-size: 40px;
+    border-bottom: 1px solid springgreen;
+
+}
+.m1t ul{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    margin-left: 350px;
+    padding: 10px;
+    
+}
+.m1t ul li{
+    display: flex;
+    width: 150px;
+    text-align: center;
+}
+.m1t ul li a{
+    text-decoration: none;
+    border: 1px solid gold;
+    padding: 5px 30px;
+    text-align: center;
+   
+}
+.btn1{
+    margin-top: 40px;
+    text-align: center;
+}
+.btn1 a{
+    border: 1px solid rgb(240, 217, 12);
+    padding: 5px 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: grey;
+}
+.btn1 a:hover{
+    background-color: rgb(240,217,12);
+    color: white;
+}
+.img2 img{
+    border: 10px solid green;
+    width: 400px;
+}
+.m3 p{
+    width: 200px;
+}
+.m2 ul{
+    list-style: none;
+}
+.m2 ul li{
+    height: 100px;
+    color: rgb(170, 146, 7);
+    font-weight: bold;
+    font-size: 30px;
+}
+body{
+    background-color: #fbfbfc;
+}
+.m3 ul{
+    list-style: none;
+}
+.m3 ul li{
+    height: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.p1{
+    display: flex;
+    text-align: center;
+}
+.card{
+    background-color: white;
+}
+.p1 img{
+    width: 250px;
+    height: 200px;
+}
+.p1 p{
+    color: goldenrod;
+    font-size: 40px;
+    margin-top: -20px;
+}
+.card-body h1{
+    color: gray;
+    font-size: 40px;
+    margin-top: -60px;
+}
+.btn2{
+    margin-top: -20px;
+}
+.btn2 a{
+    text-decoration: none;
+    border: 1px solid gold;
+    border-radius: 50px;
+    padding: 5px 30px;
+    color: gray;
+    
+
+}
+.btn2 a:hover{
+    background-color: greenyellow;
+    color: blue;
+}
+.card1{
+    border: 10px solid blue;
+    padding: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.p1{
+    text-align: center;
+    margin-left: 250px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+}
+.g2 img{
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+}
+.g1{
+    margin-left: 180px;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.o1{
+    display: flex;
+    border: 1px solid slateblue;
+    padding: 20px 5px;
+}
+.f1{
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: rgb(136, 132, 132);
+    border-radius: 5px;
+}
+.f1 input{
+    width: 600px;
+    margin-bottom: 15px;
+    background-color:darkgray;
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.btn3 a{
+    text-decoration: none;
+    border: 1px solid gold;
+    border-radius: 50px;
+    padding: 5px 30px;
+    color: rgb(255, 255, 255);
+    
+
+}
+.btn3 a:hover{
+    background-color: greenyellow;
+    color: blue;
+}
+.o2 img{
+    width: 500px;
+    height: 250px;
+    margin-left: 40px;
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: rgb(136, 132, 132);
+    border-radius: 5px;
+}
+.h1 ul{
+    list-style: none;
+}
+.h1 ul li{
+    line-height: 30px;
+    font-size: 20px;
+}
+.potter{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    display: flex;
+    padding: 30px 5px;
+}
+h6{
+  background-color:rgb(36, 36, 36);
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  border-top: 1px solid white;
+  margin-top: -20px;
+  padding: 30px 5px;
+}
